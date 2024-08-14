@@ -110,7 +110,7 @@
 <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: <a href="mailto:pabanrawat50@gmail.com">pabanrawat50@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/paban-rawat-ba0574242/" target="_blank">Connect with me on LinkedIn</a>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/paban-rawat-ba0574242" target="_blank">Connect with me on LinkedIn</a>
 " target="_blank">Paban Rawat</a></p>
     <!-- Add more contact information or links as needed -->
 </section>
